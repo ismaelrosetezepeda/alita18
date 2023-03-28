@@ -40,14 +40,16 @@ body {
     font-family: 'SF Display', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     background-color: #000a23;
     color: #f0f0f0;
+    width: 100%;
+    height: 100%;
 }
 
 h1 {
-    font-size: 5rem
+    font-size: 5rem;
 }
 
 h2 {
-    font-size: 2rem
+    font-size: 2rem;
 }
 
 img {
@@ -71,7 +73,6 @@ header {
     height: 100vh
 }
 
-
 footer {
     height: 55vh;
     margin-left: 30vh;
@@ -82,7 +83,8 @@ footer {
     text-align: center;
     font-size: 1.5rem;
 }
-.atentamente{
+
+.atentamente {
     margin-top: 100px;
     font-style: 'SF Display';
     font-style: italic;
@@ -104,7 +106,8 @@ footer {
 .df {
     display: flex;
 }
-.df1{
+
+.df1 {
     display: block;
 }
 
@@ -155,7 +158,8 @@ footer {
         text-align: center;
         font-size: 2rem;
     }
-    .atentamente{
+
+    .atentamente {
         margin-top: 50px;
     }
 }
