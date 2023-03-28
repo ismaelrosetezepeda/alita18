@@ -4,7 +4,7 @@
     font-size: 16px
 }
 
-@media (max-width: 576px) {
+@media (max-width: 500px) {
     :root {
         font-size: 14px
     }
@@ -75,20 +75,14 @@ header {
 
 footer {
     height: 55vh;
-    margin-left: 30vh;
-    margin-right: 30vh;
+    margin: 30vh;
     align-items: center;
     position: center;
     text-align: center;
     font-size: 1.5rem;
 }
 
-.atentamente {
-    margin-top: 100px;
-    font-style: 'SF Display';
-    font-style: italic;
-    font-weight: bolder;
-}
+
 
 :-webkit-any-link {
     color: #9EF01A;
