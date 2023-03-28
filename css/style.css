@@ -143,7 +143,7 @@ footer {
 @media screen and (min-width: 576px) {
     footer {
         height: 10vh;
-        margin: 5vh;
+        margin: 200px;
         align-items: center;
         position: center;
         text-align: center;
